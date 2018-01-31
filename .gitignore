@@ -102,3 +102,8 @@ ENV/
 
 # intelliJ
 .idea/**
+
+# python
+**/**.pyc
+#
+db.sqlite3
