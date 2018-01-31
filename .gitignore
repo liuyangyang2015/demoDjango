@@ -103,3 +103,6 @@ ENV/
 # intelliJ
 .idea/**
 db.sqlite3
+# pyc
+**/**.pyc
+
